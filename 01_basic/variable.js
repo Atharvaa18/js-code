@@ -1,5 +1,4 @@
-let name ="atharva"
-let age =20
-let schl=false
-console.log(typeof false);
+let sumNumber = 24
+let changeNumber = String(sumNumber)
+console.log(typeof changeNumber)
 
